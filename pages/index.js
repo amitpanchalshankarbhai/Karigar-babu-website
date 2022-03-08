@@ -1,7 +1,6 @@
 import * as React from "react";
 import Image from "next/image";
 import Logo from "../assets/images/logo.png";
-import BackgroundImage from "../assets/images/banner-bg.svg";
 import WorkingGIF from "../assets/images/carpenter.jpg";
 import WorkingIllustration from "../assets/images/worker_illustration.jpeg";
 import WorkingIllustration2 from "../assets/images/workthree.jpg";
@@ -481,9 +480,9 @@ const Home = () => {
                     </li>
                     <li className="text">
                       3) Workers can easily get the work on our platform as they
-                      don’t need to rely on one contractor. so through our
-                      mobile application they find more oppurtunities by staying
-                      at their home.
+                      dont need to rely on one contractor. so through our mobile
+                      application they find more oppurtunities by staying at
+                      their home.
                     </li>
                   </ul>
                 </div>{" "}
